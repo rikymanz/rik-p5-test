@@ -13,7 +13,7 @@ let arr = [
 ]
 
 let count = 0
-let c
+let c // color
 
 function setup() {
   createCanvas(800, 800);
