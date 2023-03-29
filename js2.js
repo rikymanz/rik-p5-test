@@ -1,3 +1,8 @@
+var speed_star = 0.1
+var _alpha = 30
+var aplha_habital = 25
+
+
 //natural Satellite of earth - the outcome of the mars-sized planet hiting earth cousing dinosours to die, instantly
 var moon_x=400
 var moon_y=400
@@ -5,6 +10,21 @@ var moon_theta = 29.78
 var moon_orb_earth = 10
 var moon_r = 400
 var speed_moon = 0.07978 * speed_star
+
+
+//2nd largest terrestrial planet in solar system - place 2
+var venus_x=400;
+var venus_y=400;
+var venus_theta = 35.02;
+var venus_r = 100;
+var speed_venus = -0.03502 * speed_star
+
+//the only know planet to house life in the solar system - place 3
+var earth_x=400;
+var earth_y=400;
+var earth_theta = 29.78;
+var earth_r = 200;
+var speed_earth = -0.02978 * speed_star
     
     
     
