@@ -5,7 +5,7 @@ let rad = 0
 let rad_2 = 0
 let step = 0.005
 
-let speed_1 = 8
+let speed_1 = 2
 let speed_2 = 11
 
 function draw() {
